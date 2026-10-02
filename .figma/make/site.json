@@ -1,0 +1,10 @@
+{
+  "description": "An AI-powered English tutor offering personalized lessons, grammar correction, voice practice, and roleplay to boost fluency and confidence for ESL learners.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
